@@ -1,0 +1,13 @@
+#submit_butn{
+    margin-right: 40%;
+    width: 20%;
+    margin-top: 3%;
+    background-color: rgb(40,184,228);
+    color: white;
+    border-radius: 10px;
+}
+#submit_butn:hover{
+    background-color: white;
+    color: rgb(40,184,228);
+    border: 1px solid rgb(40,184,228);
+}

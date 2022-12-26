@@ -1,0 +1,39 @@
+#login_butn{
+  width: 100%;
+  background-color: rgb(40,184,228);
+  color: white;
+}
+#login_butn:hover{
+    background-color: white;
+    color: rgb(40,184,228);
+    /* border: 1px solid rgb(40,184,228); */
+    /* color: rgb(40,184,228); */
+  }
+  #click_here{
+    color: black;
+  }
+  #click_here:hover{
+    background-color: white;
+    color: rgb(40,184,228);
+  }
+#reg_here{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+#reg_butn{
+  background-color: rgb(40,184,228);
+  width: 100%;
+  border-radius: 10px;
+  color: white;
+}
+#reg_butn:hover{
+  color: rgb(40,184,228);
+  background-color: white;
+  border: 1px solid rgb(40,184,228);
+}
+#reg_l{
+  color: black;
+}
+#reg_l:hover{
+  color: rgb(40,184,228);
+}
